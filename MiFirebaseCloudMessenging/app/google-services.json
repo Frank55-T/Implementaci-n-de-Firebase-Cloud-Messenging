@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "914187113776",
+    "firebase_url": "https://prueba-fc26d.firebaseio.com",
+    "project_id": "prueba-fc26d",
+    "storage_bucket": "prueba-fc26d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914187113776:android:8a8603a6aaf3588882a4f5",
+        "android_client_info": {
+          "package_name": "com.example.mifirebasecloudmessenging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914187113776-ngr4ecrnrc49422mfoc5c9tdl33ndktr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mifirebasecloudmessenging",
+            "certificate_hash": "2f3cb07cd561db6a74114efeb0ea547b6ed6a90b"
+          }
+        },
+        {
+          "client_id": "914187113776-sdrh9tq6jj1k6ku2viakjr2u2qtumqr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdzCx35OpsYXQQBc1DNx8dd3_NGsWPagc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914187113776-sdrh9tq6jj1k6ku2viakjr2u2qtumqr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
